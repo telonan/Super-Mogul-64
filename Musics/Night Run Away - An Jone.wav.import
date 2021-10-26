@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Night Run Away - An Jone.wav-2928c9d18c70c60027c6a6a355272b6b.sample"
+
+[deps]
+
+source_file="res://Musics/Night Run Away - An Jone.wav"
+dest_files=[ "res://.import/Night Run Away - An Jone.wav-2928c9d18c70c60027c6a6a355272b6b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
